@@ -16,7 +16,7 @@ On an average computer any search depth above 6 is expected to run noticable slo
 ### Test
     make test  # execute in the main directory of the repository
 
-### Usage:
+### Usage
     -h, --help          Show manual.
     -a, --ai            Play against the computer.
     -i, --input FILE    Load game state from file.
@@ -24,5 +24,5 @@ On an average computer any search depth above 6 is expected to run noticable slo
                         Will have no effect if --ai is not activated.
                         Default value is 6.
 
-###License
+### License
 This work is published under MIT License. For details see the enclosed LICENSE file.
